@@ -1,0 +1,25 @@
+p.no1 {
+    background-color: pink;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+div#no2 {
+    color: blue;
+    font-size: 36px;
+}
+
+p.no3 {
+    background-color: pink;
+    font-family: verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+div#no4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+p.no5 {
+    background-color: pink;
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
